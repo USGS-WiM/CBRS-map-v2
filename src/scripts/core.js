@@ -137,12 +137,12 @@ require([
         // var underLayerExist = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/2");
         // var changeLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/4");
 
-        var completedLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/0?token=OSPm3K6U8xNWNQiFWvWxnpqBXH87ZATmehYaaKMvtdUID7l9mwuyxpAYixrzrx8W3BQ0gytcs6RPv03HuXVIsfiCmPTq8d_R68PxPXnhLBacxCKT8PkNVQgXGuRfgC0weuhpg0TR1dAfhvaBy0PwYU4yP9uR_h3irMd0l6M46v0GR_fufBRJDaTAkFPn_yo8OAx-z2xa_uGGrYznr7s811zZNLGvDvor5ptlQzWMcTU.")
-        var supersededUnderLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/arcgis/rest/services/testprojectmapper/FeatureServer/1?token=OSPm3K6U8xNWNQiFWvWxnpqBXH87ZATmehYaaKMvtdUID7l9mwuyxpAYixrzrx8W3BQ0gytcs6RPv03HuXVIsfiCmPTq8d_R68PxPXnhLBacxCKT8PkNVQgXGuRfgC0weuhpg0TR1dAfhvaBy0PwYU4yP9uR_h3irMd0l6M46v0GR_fufBRJDaTAkFPn_yo8OAx-z2xa_uGGrYznr7s811zZNLGvDvor5ptlQzWMcTU.")
-        var otherProjectsLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/arcgis/rest/services/testprojectmapper/FeatureServer/5?token=OSPm3K6U8xNWNQiFWvWxnpqBXH87ZATmehYaaKMvtdUID7l9mwuyxpAYixrzrx8W3BQ0gytcs6RPv03HuXVIsfiCmPTq8d_R68PxPXnhLBacxCKT8PkNVQgXGuRfgC0weuhpg0TR1dAfhvaBy0PwYU4yP9uR_h3irMd0l6M46v0GR_fufBRJDaTAkFPn_yo8OAx-z2xa_uGGrYznr7s811zZNLGvDvor5ptlQzWMcTU.");
-        var swipeLayerRevised = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/3?token=OSPm3K6U8xNWNQiFWvWxnpqBXH87ZATmehYaaKMvtdUID7l9mwuyxpAYixrzrx8W3BQ0gytcs6RPv03HuXVIsfiCmPTq8d_R68PxPXnhLBacxCKT8PkNVQgXGuRfgC0weuhpg0TR1dAfhvaBy0PwYU4yP9uR_h3irMd0l6M46v0GR_fufBRJDaTAkFPn_yo8OAx-z2xa_uGGrYznr7s811zZNLGvDvor5ptlQzWMcTU.");
-        var underLayerExist = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/2?token=OSPm3K6U8xNWNQiFWvWxnpqBXH87ZATmehYaaKMvtdUID7l9mwuyxpAYixrzrx8W3BQ0gytcs6RPv03HuXVIsfiCmPTq8d_R68PxPXnhLBacxCKT8PkNVQgXGuRfgC0weuhpg0TR1dAfhvaBy0PwYU4yP9uR_h3irMd0l6M46v0GR_fufBRJDaTAkFPn_yo8OAx-z2xa_uGGrYznr7s811zZNLGvDvor5ptlQzWMcTU.");
-        var changeLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/4?token=OSPm3K6U8xNWNQiFWvWxnpqBXH87ZATmehYaaKMvtdUID7l9mwuyxpAYixrzrx8W3BQ0gytcs6RPv03HuXVIsfiCmPTq8d_R68PxPXnhLBacxCKT8PkNVQgXGuRfgC0weuhpg0TR1dAfhvaBy0PwYU4yP9uR_h3irMd0l6M46v0GR_fufBRJDaTAkFPn_yo8OAx-z2xa_uGGrYznr7s811zZNLGvDvor5ptlQzWMcTU.");
+        var completedLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/0?token=9TtsgSm6S2kDMAXAeGI6mnv1__3TILsshuVjCvfkeNgxpPUJKqh3wUtYtJQtT11k26NjMLKdKiz8gdZZlG9Mkcqg7C0Fmc6hWfJgDX8h23LPGTlpMUfbuFwh7VcJNsRphd4EdzhYZvYQdrun02SW_lih2ea89a-qI7qv5_lN0WZni2eQ8v0itI0xCly45ogRgshKnWaalQBrfb-UJGyk73B6YorZ9vHwgsN3B0EZbTU.")
+        var supersededUnderLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/arcgis/rest/services/testprojectmapper/FeatureServer/1?token=9TtsgSm6S2kDMAXAeGI6mnv1__3TILsshuVjCvfkeNgxpPUJKqh3wUtYtJQtT11k26NjMLKdKiz8gdZZlG9Mkcqg7C0Fmc6hWfJgDX8h23LPGTlpMUfbuFwh7VcJNsRphd4EdzhYZvYQdrun02SW_lih2ea89a-qI7qv5_lN0WZni2eQ8v0itI0xCly45ogRgshKnWaalQBrfb-UJGyk73B6YorZ9vHwgsN3B0EZbTU.")
+        var otherProjectsLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/arcgis/rest/services/testprojectmapper/FeatureServer/5?token=9TtsgSm6S2kDMAXAeGI6mnv1__3TILsshuVjCvfkeNgxpPUJKqh3wUtYtJQtT11k26NjMLKdKiz8gdZZlG9Mkcqg7C0Fmc6hWfJgDX8h23LPGTlpMUfbuFwh7VcJNsRphd4EdzhYZvYQdrun02SW_lih2ea89a-qI7qv5_lN0WZni2eQ8v0itI0xCly45ogRgshKnWaalQBrfb-UJGyk73B6YorZ9vHwgsN3B0EZbTU.");
+        var swipeLayerRevised = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/3?token=9TtsgSm6S2kDMAXAeGI6mnv1__3TILsshuVjCvfkeNgxpPUJKqh3wUtYtJQtT11k26NjMLKdKiz8gdZZlG9Mkcqg7C0Fmc6hWfJgDX8h23LPGTlpMUfbuFwh7VcJNsRphd4EdzhYZvYQdrun02SW_lih2ea89a-qI7qv5_lN0WZni2eQ8v0itI0xCly45ogRgshKnWaalQBrfb-UJGyk73B6YorZ9vHwgsN3B0EZbTU.");
+        var underLayerExist = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/2?token=9TtsgSm6S2kDMAXAeGI6mnv1__3TILsshuVjCvfkeNgxpPUJKqh3wUtYtJQtT11k26NjMLKdKiz8gdZZlG9Mkcqg7C0Fmc6hWfJgDX8h23LPGTlpMUfbuFwh7VcJNsRphd4EdzhYZvYQdrun02SW_lih2ea89a-qI7qv5_lN0WZni2eQ8v0itI0xCly45ogRgshKnWaalQBrfb-UJGyk73B6YorZ9vHwgsN3B0EZbTU.");
+        var changeLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/testprojectmapper/FeatureServer/4?token=9TtsgSm6S2kDMAXAeGI6mnv1__3TILsshuVjCvfkeNgxpPUJKqh3wUtYtJQtT11k26NjMLKdKiz8gdZZlG9Mkcqg7C0Fmc6hWfJgDX8h23LPGTlpMUfbuFwh7VcJNsRphd4EdzhYZvYQdrun02SW_lih2ea89a-qI7qv5_lN0WZni2eQ8v0itI0xCly45ogRgshKnWaalQBrfb-UJGyk73B6YorZ9vHwgsN3B0EZbTU.");
 
         // PROD URLS
         // var otherProjectsLayer = new FeatureLayer("https://services1.arcgis.com/Hp6G80Pky0om7QvQ/arcgis/rest/services/projectmapperlive/FeatureServer/3", {outFields:["*"]});
@@ -302,17 +302,17 @@ require([
             showPrintModal();
         });
 
-        $('#printDismissButton').click(function(){
-            if (printing == true) {
-                var x = document.getElementById("toast")
-                x.className = "show";
-                setTimeout(function () {
-                    x.className = x.className.replace("show", "");
-                }, 7000);
-            } else {
+        // $('#printDismissButton').click(function(){
+        //     if (printing == true) {
+        //         var x = document.getElementById("toast")
+        //         x.className = "show";
+        //         setTimeout(function () {
+        //             x.className = x.className.replace("show", "");
+        //         }, 7000);
+        //     } else {
 
-            }
-        });
+        //     }
+        // });
 
         
 
@@ -1422,11 +1422,18 @@ require([
 
         function printMap() {
 
+            var hideLayers = [];          
+            $.each(allLayers, function (index, layer){
+                if (layer.visible === false){
+                    hideLayers.push(layer)
+                }
+                layer.show();
+            });
+
             var printParams = new PrintParameters();
             printParams.map = map;
 
-            allLayers[1].setVisibility(false);
-
+            //allLayers[1].setVisibility(false);
 
             var template = new PrintTemplate();
             template.exportOptions = {
@@ -1435,7 +1442,7 @@ require([
                 dpi: 300
             };
             template.format = "PDF";
-            template.layout = "Letter ANSI A Landscape cbrs projects";
+            template.layout = "Letter ANSI A Landscape June 2020";
             template.preserveScale = false;
 
             /* var existingLegendLayer = new LegendLayer();
@@ -1488,13 +1495,21 @@ require([
                 $("#printTitle").val("");
                 $("#printExecuteButton").button('reset');
 
-                allLayers[1].setVisibility(true);
+                //allLayers[1].setVisibility(true);
+                $.each(hideLayers, function(index, layer) {
+                    layer.hide();
+                });
+
                 printing = false;
             }
 
             function printError(event) {
                 alert("Sorry, an unclear print error occurred. Please try refreshing the application to fix the problem");
-                allLayers[1].setVisibility(true);
+                //allLayers[1].setVisibility(true);
+                $.each(hideLayers, function(index, layer) {
+                    layer.hide();
+                });
+
                 $("#printExecuteButton").button('reset');
 
                 gtag('event', 'click', { 'event_category': 'Print', 'event_label': 'Print Error' });
